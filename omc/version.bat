@@ -1,0 +1,1 @@
+@echo off&&ver&&oh-my-cmd -v
